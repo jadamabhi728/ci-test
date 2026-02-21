@@ -4,5 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"CI is working\""
+  },
+  "dependencies": {
+    "express": "^4.18.2"
   }
 }
